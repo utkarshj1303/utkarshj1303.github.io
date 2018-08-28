@@ -914,3 +914,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	object-fit: cover;
 }
 
+
+.container > * {
+    display: inline-block;
+}
