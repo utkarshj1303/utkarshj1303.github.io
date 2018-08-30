@@ -434,7 +434,7 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
   background: #ebeeee;
-   padding-top: 90px;
+   padding-top: 30px;
    padding-bottom: 60px;
 }
 
@@ -456,7 +456,6 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #portfolio .x {
-   margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #dadde5;
 }
